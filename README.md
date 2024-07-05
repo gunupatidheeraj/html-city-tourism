@@ -1,7 +1,8 @@
-html-city-tourism
-Ex-1
-Creating a html file to display the contents as seen in the following image.
-Program:
+# html-city-tourism
+### Ex-1
+#### Creating a html file to display the contents as seen in the following image.
+#### Program:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -74,16 +75,18 @@ Program:
 </table>
 </body>
 </html>
-Output
-Screenshot 2024-07-02 134519
-
-Result:
+```
+#### Output
+![Screenshot 2024-07-02 134519](https://github.com/ManojTella/html-city-tourism/assets/94883876/48b88671-5277-4e5d-b4f7-4952d2fcf276)
+#### Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
 
-Ex: 2
-Aim: To design a website for a College.
-Program:
-Index.html
+
+## Ex: 2
+#### Aim: To design a website for a College.
+#### Program:
+##### Index.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,7 +116,9 @@ Index.html
     </footer>
 </body>
 </html>
-Academics.html
+```
+##### Academics.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -144,7 +149,9 @@ Academics.html
     </footer>
 </body>
 </html>
-Admission.html
+```
+##### Admission.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,7 +182,9 @@ Admission.html
     </footer>
 </body>
 </html>
-Gallery.html
+```
+##### Gallery.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -210,7 +219,9 @@ Gallery.html
     </footer>
 </body>
 </html>
-Courses.html
+```
+##### Courses.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -249,7 +260,9 @@ Courses.html
     </footer>
 </body>
 </html>
-ComputerScience.html
+```
+##### ComputerScience.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -280,7 +293,9 @@ ComputerScience.html
     </footer>
 </body>
 </html>
-Mathematics.html
+```
+##### Mathematics.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -324,7 +339,9 @@ Mathematics.html
     </footer>
 </body>
 </html>
-English.html
+```
+##### English.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -368,7 +385,9 @@ English.html
     </footer>
 </body>
 </html>
-Social.html
+```
+##### Social.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -409,7 +428,9 @@ Social.html
     </main>
 </head>
 </html>
-Economics.html
+```
+##### Economics.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -453,7 +474,9 @@ Economics.html
     </footer>
 </body>
 </html>
-Management.html
+```
+##### Management.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -496,7 +519,9 @@ Management.html
     </footer>
 </body>
 </html>
-Styles.css
+```
+##### Styles.css
+```
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -545,8 +570,17 @@ footer {
     width: 100%;
     bottom: 0;
 }
-Output:
-Screenshot 2024-07-02 133856 Screenshot 2024-07-02 133916 Screenshot 2024-07-02 133925 Screenshot 2024-07-02 133933 Screenshot 2024-07-02 134014 Screenshot 2024-07-02 134024 Screenshot 2024-07-02 134037 Screenshot 2024-07-02 134047 Screenshot 2024-07-02 134103 Screenshot 2024-07-02 134122
-
-Result:
+```
+### Output:
+![Screenshot 2024-07-02 133856](https://github.com/ManojTella/html-city-tourism/assets/94883876/f9081a4f-6979-4263-957f-fc161cae6b6c)
+![Screenshot 2024-07-02 133916](https://github.com/ManojTella/html-city-tourism/assets/94883876/18648474-3cf4-4c9e-b0e3-5a2444e1b70f)
+![Screenshot 2024-07-02 133925](https://github.com/ManojTella/html-city-tourism/assets/94883876/e2b5c3a9-7e68-47cc-86a9-ee06274eb16d)
+![Screenshot 2024-07-02 133933](https://github.com/ManojTella/html-city-tourism/assets/94883876/d79bbf20-9dec-4659-91aa-219b73754e0a)
+![Screenshot 2024-07-02 134014](https://github.com/ManojTella/html-city-tourism/assets/94883876/bce5d78e-95f1-4043-9173-59a7d2f42eb8)
+![Screenshot 2024-07-02 134024](https://github.com/ManojTella/html-city-tourism/assets/94883876/cf8c3d80-333c-4774-8df5-eacd7ad8d874)
+![Screenshot 2024-07-02 134037](https://github.com/ManojTella/html-city-tourism/assets/94883876/da08a16b-f10b-4773-8dce-76f970c0e226)
+![Screenshot 2024-07-02 134047](https://github.com/ManojTella/html-city-tourism/assets/94883876/5eb561b1-f512-4016-b500-ee70439dd44b)
+![Screenshot 2024-07-02 134103](https://github.com/ManojTella/html-city-tourism/assets/94883876/e21e67bd-8da8-4d94-8fdb-765ee1dc7dc3)
+![Screenshot 2024-07-02 134122](https://github.com/ManojTella/html-city-tourism/assets/94883876/8fc7880c-8d53-4b4c-b6b5-9f7081722e55)
+### Result:
 Thus,Creating a website for college was executed successfully.
